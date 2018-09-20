@@ -6,6 +6,7 @@
 	</head>
 	<body>
 		<img src="images/images.jpg" alt="image of instagram logo">
+		<p> Well what to do what to do </p>
 	</body>
 </html>
 
